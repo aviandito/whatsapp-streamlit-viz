@@ -1,7 +1,5 @@
+emoji
+scipy
 pandas
 altair
 streamlit
-scipy
-matplotlib
-emoji
-patterns
